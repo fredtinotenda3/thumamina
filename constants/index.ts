@@ -76,19 +76,19 @@ export const onboarding = [
     id: 1,
     title: "The perfect ride is just a tap away!",
     description:
-      "Your journey begins with Ryde. Find your ideal ride effortlessly.",
+      "Your journey begins with ThumaMina. Find your ideal ride effortlessly.",
     image: images.onboarding1,
   },
   {
     id: 2,
-    title: "Best car in your hands with Ryde",
+    title: "Best ride on two wheels delivered to your hands with ThumaMina!",
     description:
-      "Discover the convenience of finding your perfect ride with Ryde",
+      "Discover the convenience of finding your perfect ride with Thuma",
     image: images.onboarding2,
   },
   {
     id: 3,
-    title: "Your ride, your way. Let's go!",
+    title: "Your Trusted, Delivery Partner. Let's go!",
     description:
       "Enter your destination, sit back, and let us take care of the rest.",
     image: images.onboarding3,
